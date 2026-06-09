@@ -253,18 +253,22 @@ h3 {
   box-shadow: 0 18px 50px rgba(0, 0, 0, 0.22);
 }
 
-.card::before {
+.card-icon {
   display: block;
-  width: 42px;
-  height: 58px;
+  width: 50px;
+  height: 64px;
   margin-bottom: 24px;
-  border: 1px solid rgba(216, 180, 95, 0.52);
-  border-radius: 5px;
-  content: "";
-  background:
-    linear-gradient(135deg, transparent 44%, rgba(216, 180, 95, 0.48) 45%, rgba(216, 180, 95, 0.48) 55%, transparent 56%),
-    radial-gradient(circle at center, rgba(141, 38, 51, 0.5) 0 5px, transparent 6px),
-    rgba(7, 8, 10, 0.42);
+  overflow: visible;
+  fill: none;
+  stroke: var(--accent);
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.card-icon .icon-fill {
+  fill: rgba(7, 8, 10, 0.72);
+  stroke: rgba(216, 180, 95, 0.68);
 }
 
 footer {
