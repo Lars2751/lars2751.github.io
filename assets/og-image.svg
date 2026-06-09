@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Lars_2751 dark indie Let's Plays">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#101318"/>
+      <stop offset="0.48" stop-color="#07080a"/>
+      <stop offset="1" stop-color="#15110f"/>
+    </linearGradient>
+    <radialGradient id="red" cx="22%" cy="22%" r="55%">
+      <stop offset="0" stop-color="#8d2633" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#8d2633" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="green" cx="82%" cy="18%" r="45%">
+      <stop offset="0" stop-color="#6e8465" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#6e8465" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#red)"/>
+  <rect width="1200" height="630" fill="url(#green)"/>
+  <g opacity="0.16" stroke="#f4efe7" stroke-width="1">
+    <path d="M0 90h1200M0 180h1200M0 270h1200M0 360h1200M0 450h1200M0 540h1200"/>
+    <path d="M100 0v630M200 0v630M300 0v630M400 0v630M500 0v630M600 0v630M700 0v630M800 0v630M900 0v630M1000 0v630M1100 0v630"/>
+  </g>
+  <g transform="translate(824 132)" opacity="0.48">
+    <path d="M138 0 276 138 138 276 0 138Z" fill="none" stroke="#d8b45f" stroke-width="5"/>
+    <path d="M138 48 228 138 138 228 48 138Z" fill="none" stroke="#8d2633" stroke-width="4"/>
+    <circle cx="138" cy="138" r="18" fill="#f0cf75"/>
+  </g>
+  <g transform="translate(88 106)">
+    <text x="0" y="118" fill="#f4efe7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="104" font-weight="800">Lars_2751</text>
+    <text x="4" y="196" fill="#f0cf75" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="700">Dark Indie Let's Plays</text>
+    <text x="4" y="264" fill="#b8aca0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34">Cult of the Lamb • Inscryption</text>
+    <text x="4" y="324" fill="#b8aca0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30">strange rules • cards • rituals • consequences</text>
+  </g>
+  <g transform="translate(92 470)">
+    <rect width="74" height="104" rx="8" fill="#101318" stroke="#d8b45f" stroke-width="3"/>
+    <path d="M16 18h42M16 86h42" stroke="#6e8465" stroke-width="3"/>
+    <circle cx="37" cy="52" r="10" fill="#8d2633"/>
+    <rect x="98" width="74" height="104" rx="8" fill="#101318" stroke="#d8b45f" stroke-width="3"/>
+    <path d="M112 18h46M112 86h46M135 28v48" stroke="#6e8465" stroke-width="3"/>
+  </g>
+</svg>
