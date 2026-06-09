@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lars2751.github.io/lars_2751-site/sitemap.xml
